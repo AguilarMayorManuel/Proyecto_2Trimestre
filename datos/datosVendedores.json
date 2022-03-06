@@ -1,0 +1,4 @@
+{"_id":{"$oid":"62251493c9591c79fb01438b"},"ventas":["004","008","014"],"nombre":"Jose Luis Esteve Moreno","edad":42,"antiguedad":11,"NIF":"94738203J","genero":"male","hijos":{"tiene":true,"cantidad":1},"salario":1720.21}
+{"_id":{"$oid":"62251493c9591c79fb01438c"},"ventas":["010","003","005","009","016","013"],"nombre":"Sergio Martinez Recaredo","edad":54,"antiguedad":20,"NIF":"38251044H","genero":"male","hijos":{"tiene":true,"cantidad":3},"salario":2100}
+{"_id":{"$oid":"62251493c9591c79fb01438d"},"ventas":["006","012","001"],"nombre":"Julian Gallego Gonzalez","edad":36,"antiguedad":9,"NIF":"93428123E","genero":"male","hijos":{"tiene":true,"cantidad":2},"salario":1726.29}
+{"_id":{"$oid":"62251493c9591c79fb01438e"},"ventas":["002","011","015","007"],"nombre":"Maria Reyes Fernandez","edad":29,"antiguedad":1,"NIF":"00324893T","genero":"female","hijos":{"tiene":false,"cantidad":null},"salario":1443}
