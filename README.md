@@ -2,13 +2,17 @@
 
 <h2>Proyecto final del 2º trimestre</h2>
 
-En este proyecto realizo una serie de consultas 
+En este proyecto divido una colección en cuatro colecciones distintas y realizo consultas cogiendo datos de varias colecciones a la vez. También uso MongoDB Atlas y las herramientas mongoimport y mongoexport.
 
-Hay dos carpetas:
+Hay tres carpetas:
 
--En la carpeta ["src"](https://github.com/AguilarMayorManuel/ProyectoTrimestre_01/tree/main/src) hay dos archivos, en el archivo inserciones.js se encuentra la colección y en el archivo consultas.js se encuentran las consultas, realizadas mediante el método "aggregate".
+-En la carpeta ["src"](https://github.com/AguilarMayorManuel/Proyecto_2Trimestre/tree/main/src) hay dos archivos, en el archivo insert.js se encuentra la colección principal y en el archivo consultas.js se encuentran las consultas, realizadas mediante el método "aggregate" y los operadores de etapa.
 
  
--En la carpeta ["doc"](https://github.com/AguilarMayorManuel/ProyectoTrimestre_01/tree/main/doc) hay un pdf que explica las consultas, mongoimport y mongoexport, y también cómo tener tu base de datos en la nube utilizando Mongo Atlas. 
+-En la carpeta ["doc"](https://github.com/AguilarMayorManuel/Proyecto_2Trimestre/tree/main/doc) hay un pdf que explica la estructura de la base de datos, las consultas, mongoimport y mongoexport, y también cómo tener tu base de datos en la nube utilizando Mongo Atlas. 
+
+  
+-En la carpeta ["datos"](https://github.com/AguilarMayorManuel/Proyecto_2Trimestre/tree/main/datos) hay un fichero (comandos.txt) que tiene una lista de comandos sobre cómo usar mongoimport y mongoexport, a nivel local y remoto. También están las colecciones de la base de datos en formato JSON.
+
                      
-![...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuBuq0CF8MQmuIwjLuXK33sVvPrSvf-e-gPw&usqp=CAU)
+![...](https://www.google.com/url?sa=i&url=https%3A%2F%2Foperadoras-moviles.com%2Fnoticias-telefonia%2Fphone-house-abre-una-tienda-de-moviles-outlet-en-sevilla%2F&psig=AOvVaw0R9QC719SpDHeuoKnQEF9x&ust=1646685932267000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKC9vqutsvYCFQAAAAAdAAAAABAx)
