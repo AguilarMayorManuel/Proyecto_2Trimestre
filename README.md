@@ -15,4 +15,4 @@ Hay tres carpetas:
 -En la carpeta ["datos"](https://github.com/AguilarMayorManuel/Proyecto_2Trimestre/tree/main/datos) hay un fichero (comandos.txt) que tiene una lista de comandos sobre cómo usar mongoimport y mongoexport, a nivel local y remoto. También están las colecciones de la base de datos en formato JSON.
 
                      
-![...](https://www.google.com/url?sa=i&url=https%3A%2F%2Foperadoras-moviles.com%2Fnoticias-telefonia%2Fphone-house-abre-una-tienda-de-moviles-outlet-en-sevilla%2F&psig=AOvVaw0R9QC719SpDHeuoKnQEF9x&ust=1646685932267000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKC9vqutsvYCFQAAAAAdAAAAABAx)
+![...](http://operadoras-moviles.com/wp-content/uploads/2014/07/the-phone-house-600.jpg)
