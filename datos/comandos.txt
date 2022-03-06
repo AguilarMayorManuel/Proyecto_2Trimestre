@@ -1,0 +1,25 @@
+Exportar en local
+mongoexport --collection=datosArticulos --db=proyecto2trimestre --out=datosArticulos.json
+mongoexport --collection=datosClientes --db=proyecto2trimestre --out=datosClientes.json
+mongoexport --collection=datosVendedores --db=proyecto2trimestre --out=datosVendedores.json
+mongoexport --collection=datosVentas --db=proyecto2trimestre --out=datosVentas.json
+mongoexport --collection=ventas --db=proyecto2trimestre --out=ventas.json
+
+Exportar en MongoDB Atlas
+mongoexport --uri mongodb+srv://usuario2:<contraseña>@cluster0.9erz2.mongodb.net/proyecto2trimestre --collection datosVentas --type json --out datosVentas.json
+
+
+Importar en local
+mongoimport --db=test --collection=datosArticulos --file=datosArticulos.json
+mongoimport --db=test --collection=datosClientes --file=datosClientes.json
+mongoimport --db=test --collection=datosVendedores --file=datosVendedores.json
+mongoimport --db=test --collection=datosVentas --file=datosVentas.json
+mongoimport --db=test --collection=ventas --file=ventas.json
+
+Importar en MongoDB Atlas
+mongoimport --uri mongodb+srv://usuario2:<contraseña>@cluster0.9erz2.mongodb.net/proyecto2trimestre --collection datosArticulos --type json --file datosArticulos.json
+mongoimport --uri mongodb+srv://usuario2:<contraseña>@cluster0.9erz2.mongodb.net/proyecto2trimestre --collection datosClientes --type json --file datosClientes.json
+mongoimport --uri mongodb+srv://usuario2:<contraseña>@cluster0.9erz2.mongodb.net/proyecto2trimestre --collection datosVendedores --type json --file datosVendedores.json
+mongoimport --uri mongodb+srv://usuario2:<contraseña>@cluster0.9erz2.mongodb.net/proyecto2trimestre --collection datosVentas --type json --file datosVentas.json
+mongoimport --uri mongodb+srv://usuario2:<contraseña>@cluster0.9erz2.mongodb.net/proyecto2trimestre --collection ventas --type json --file ventas.json
+
